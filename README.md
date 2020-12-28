@@ -1,5 +1,7 @@
 # WeRateDogs Wrangle Report
 
+![](https://github.com/Dardeery/WeRateDogs/blob/main/images/all%20dogs.png)
+
 This project aimed to better understand and analyze the account of WeRateDogs,its is a part of UDacity Data analysis Nano degree aims to data wrangling project, 
 
 #### data sources:
@@ -36,3 +38,9 @@ then, I joined the clean data with the NLP data (by taking the 1st breed) and jo
 4. more than 60% of the dogs have a rating >8, which confirms the hypothesis of bais-ness of the ratings.
 5. Golden and Labrador retrievers are the most dogs being tweeted about.
 6. Cooper and Tooker are the most common dogs names on the cleaned data.
+
+#### Sources:
+1. twitter API data
+2. NLP data classification of dogs images. 
+3. data extracts to identify dogs types.
+4. images: juniqe.de
