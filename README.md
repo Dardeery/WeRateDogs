@@ -3,16 +3,7 @@
 ![](https://github.com/Dardeery/WeRateDogs/blob/main/images/all%20dogs.png)
 
 This project aimed to better understand and analyze the account of WeRateDogs,its is a part of UDacity Data analysis Nano degree aims to data wrangling project, 
-
-#### data sources:
-
-1. Twitter API data 
-    [a twitter account of @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs.]
-2. enhanced_twitter_extract
-    [enhanced data extract that identify dog type]
-3. NLP analysis data from the photos
-    [data source to identify dog breed]
-      
+     
 
 #### This project includes steps as follows:
 
@@ -39,8 +30,12 @@ then, I joined the clean data with the NLP data (by taking the 1st breed) and jo
 5. Golden and Labrador retrievers are the most dogs being tweeted about.
 6. Cooper and Tooker are the most common dogs names on the cleaned data.
 
-#### Sources:
-1. twitter API data
-2. NLP data classification of dogs images. 
-3. data extracts to identify dogs types.
+#### data sources:
+
+1. Twitter API data 
+    [a twitter account of @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs.]
+2. enhanced_twitter_extract
+    [enhanced data extract that identify dog type]
+3. NLP analysis data from the photos
+    [data source to identify dog breed]
 4. images: juniqe.de
